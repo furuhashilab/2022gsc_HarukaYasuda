@@ -1,5 +1,18 @@
 # 2022gsc_HarukaYasuda
-2022年度卒論レポジトリ
+###2022年度卒論レポジトリ
+
+青山学院大学 地球社会共生学部 地球社会共生学科
+
+安田遥 / Yasuda Haruka
+
+学生番号 1A117164
+
+指導教員 古橋大地 教授
+
+©︎Furuhashi Laboratory/Haruka Yasuda, CC BY 4.0
+
+タイトル：グラフィックレコーディング技能の持続可能な継承方法検討と実践
+title: Study and practice of sustainable handing down of graphic recording skills
 
 # おたすけグラレコアプリケーションのアップデート
 
