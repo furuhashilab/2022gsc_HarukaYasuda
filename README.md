@@ -3,50 +3,13 @@
 
 # おたすけグラレコアプリケーションのアップデート
 
-内容
-
-- 依頼を受ける際の確認事項
--  認識齟齬に関する提示
-
-## 依頼を受ける際の確認事項
-
-グラレコの流れをリスト化
-以下リスト
-- グラレコする場面が決定する。
-自らが決定する場合と、依頼されて決まる場合がある。
-- グラレコの目的を決める。
-- アウトプットイメージを決める。
-- グラレコイメージを仮決めする。
-依頼される場合はそれぞれのプロセス、特に目的の確認と、アウトプットイメージのすり合わせを先方と行う。
-
-### グラレコする場面の決定方法
-グラレコする場面ので確認すべきこと
--  時間　（何分間の発表が何回行われるのか？）
--   内容（どんな内容を誰に向けて話すのか？）
--   スピーカーの人数（何人が、何グループになって話すのか）
--   その場の話・議論の行われ方（講演形式、パネルディスカッション、グループワーク、ワールドカフェ形式、哲学対話など、どの形式か？）
-を確認する。
-目的を先に決定する場合もある。
-
-### グラレコの目的を確認する
-目的を決定してから、話・議論の行われ方が決定する場合もある。
-目的を確認する際のチェック項目
-- 話・議論の場自体がある経緯（なぜこの場があるのか）
--  話・議論の場の目的（運営側が達成したいこと）
--   場に参加する人の目的（参加側の目的は何か、参加者は何を期待してこの場に来るのか）
--   グラレコが導入される経緯（なぜグラレコが必要だと思ったのか）
--   グラレコに期待すること（グラレコをどのように活用したいか、グラレコで場にどんな影響があると考えているか）
-
-
 作成アプリURL
-https://otasukegrareco.glideapp.io/
+https://otasukegurareco.glideapp.io/
 
 旧アプリ(比較用)：　https://sudden-coat-8413.glideapp.io/　
 
 Glideで使用したGoogleスプレッドシート　
+　https://docs.google.com/spreadsheets/d/1dbzrQfb-Aqn347JowAZnsIzeRbbfqI_4yR5XNjFbRdQ/edit#gid=1847266922
 
-　https://docs.google.com/spreadsheets/d/1nEciQ1ZPe-PdgLz0mjSW3Bh2bAXfg8WxUKetmNK7Q8s/edit?usp=sharing
-
-おたすけグラレコアップデート案チェックリスト
-
-https://docs.google.com/spreadsheets/d/18RzXA4Qs6SVixVelMbscuK5wl3mIm102_mScq61PtO4/edit?usp=sharing
+スライド
+https://docs.google.com/presentation/d/155rN7zZJKQUbM_baMEr7UUdnzX4Te-dexcVM49q2BZA/edit?usp=sharing
