@@ -11,8 +11,8 @@
 
 ©︎Furuhashi Laboratory/Haruka Yasuda, CC BY 4.0
 
-タイトル：グラフィックレコーディング技能の持続可能な継承方法検討と実践
-title: Study and practice of sustainable handing down of graphic recording skills
+### タイトル：グラフィックレコーディング技能の持続可能な継承方法検討と実践
+### title: Study and practice of sustainable handing down of graphic recording skills
 
 # おたすけグラレコアプリケーションのアップデート
 
